@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="version">Version 0.0.1</string>
+
+
+    <!--Titles-->
+    <string name="home_page_title">Home Page</string>
+    <string name="home_page_sub_title">pokemon</string>
+
+
+    <string name="no_pokemon_found">Oops there is no Pokemon</string>
+    <string name="back_to_home">Back to \nHome</string>
+
+
+</resources>

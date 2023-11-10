@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/weatherHomePageFragment">
+
+    <fragment
+        android:id="@+id/weatherHomePageFragment"
+        android:name="com.shyam.weatherapp.ui.weather_home.WeatherHomePageFragment"
+        android:label="fragment_home_page"
+        tools:layout="@layout/fragment_weather_home_page" />
+
+</navigation>
